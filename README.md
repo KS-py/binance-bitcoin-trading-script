@@ -1,5 +1,5 @@
 A simple Binance bitcoin trading script that can be hosted on a VPS to run 24/7
-Works by buying BTC when price is low (below a certain value in the script) and sold when price is high.
+Works by buying BTC when price is low (below a certain value in the script) and sold when price is high and vice versa.
 
 Pass your API key and API secret key from Binance into the .env file to initialize it.
 It uses the CoinGecko API to calculate an accurate current price of BTC 
