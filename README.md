@@ -8,5 +8,4 @@ Run "npm i"
 To install all the dependencies
 and "node index.js" to start the script
 
-##DISCLAIMER: Crypto trading and all trading for that fact involves risk, hence I am responsible for any
-trading results this script will produce. It is just for educational purposes. Thank you
+##DISCLAIMER: Crypto trading and all trading for that fact involves risk, hence I am not responsible for any trading results this script will produce. It is just for educational purposes. Thank you
